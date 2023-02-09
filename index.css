@@ -2,3 +2,8 @@ body{
     background-color: azure;
 
 }
+.rotate-rectangle{
+    border: 5px;
+    border-style: solid 1px black;
+
+}
