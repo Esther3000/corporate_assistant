@@ -11,8 +11,7 @@ body{
 }
 .rotate-box{
     border: solid 1px black;
-    height: 10%;
-    width: 10%;
+    margin: 100px;
     background-color: blue;
 
 }
