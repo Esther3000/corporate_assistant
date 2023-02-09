@@ -2,10 +2,16 @@ body{
     background-color: azure;
 
 }
-.rotate-rectangle{
+.purple-line{
     padding: 5px;
     border-radius: 5px;
     border-style: solid 2px black;
     background-color: rebeccapurple;
+
+}
+.rotate-box{
+    border: solid 1px black;
+    padding: 10px;
+    background-color: blue;
 
 }
