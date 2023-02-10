@@ -24,5 +24,7 @@ body{
     height: 45px;
     position: relative;
     background-color: aquamarine;
+    border-radius: 50%;
+    
 
 }
