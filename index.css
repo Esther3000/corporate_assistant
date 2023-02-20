@@ -9,7 +9,10 @@ body{
 .logo{
     float: left;
     padding: 10px 0;
-    font-size: 20px;
+    font-size: 15px;
+}
+.logo h1{
+    margin-right: auto;
 }
 header::after{
     content: "";
